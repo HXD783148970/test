@@ -1,2 +1,0 @@
-print("hollo word!")
-ptint()
