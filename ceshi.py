@@ -1,1 +1,2 @@
 print("hollo word!")
+ptint()
